@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Signal and Image Processing, Mathematical Models for Optimization**
 
-- 👨‍💻 All of my projects are available here [[https://github.com/frasalute](https://github.com/frasalute](https://github.com/frasalute?tab=repositories))
+- 👨‍💻 All of my projects are available here [(https://github.com/frasalute](https://github.com/frasalute?tab=repositories)
 
 - ⚡ Fun fact **I love going to the aquarium**
 
