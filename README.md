@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **my Master Thesis in Natural Language Processing**
 
-- 🌱 I’m currently learning **Signal and Image Processing, Mathematical Models for Optimization**
+- 🌱 I’m currently learning **Vision and Image Processing, Mathematical Models for Optimization**
 
 - 👨‍💻 All of my projects are available here [https://github.com/frasalute](https://github.com/frasalute?tab=repositories)
 
