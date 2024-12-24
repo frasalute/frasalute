@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/736x/50/9a/df/509adf1c761ce516a6463d445cc41a51.jpg" alt="Banner" style="width: 100%; max-height: 300px; object-fit: cover;" />
+  <img src="https://i.pinimg.com/736x/50/9a/df/509adf1c761ce516a6463d445cc41a51.jpg" alt="Banner" style="width: 100%; max-height: 200px; object-fit: cover;" />
 </div>
 
 <h1 align="center">Hello, I'm Francesca</h1>
