@@ -26,7 +26,7 @@
 
 ---
 
-### Projects & Highlights
+### Some Projects
 
 - **Machine Learning & NLP**:
   - **Transformer with SCAN Dataset** recreating paper _Attention is All You Need_
