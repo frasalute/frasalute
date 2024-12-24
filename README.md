@@ -34,7 +34,7 @@
   - Time-series analysis for crime rate in Chicago
 
 Check out my [GitHub Repositories](https://github.com/frasalute?tab=repositories) for more details.
-
+![image](https://github.com/user-attachments/assets/2ea4ce4f-31c7-41d1-ab96-33d19e6b94a5)
 ---
 
 ### Languages & Tools
