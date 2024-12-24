@@ -33,10 +33,9 @@
 - **Predictive Analytics**: 
   - Time-series analysis for crime rate in Chicago
 
-<div style="display: flex; align-items: center; gap: 10px;">
-  <p>Check out my <a href="https://github.com/frasalute?tab=repositories">GitHub Repositories</a> for more details.</p>
-  <img src="https://i.pinimg.com/originals/59/a8/71/59a871299e3769df3a5d8a8aee6b6a84.gif" alt="Pusheen Coding" width="150px">
-</div>
+Check out my [GitHub Repositories](https://github.com/frasalute?tab=repositories) for more details.
+
+![image](https://github.com/user-attachments/assets/2ea4ce4f-31c7-41d1-ab96-33d19e6b94a5)
 
 
 ---
