@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/736x/50/9a/df/509adf1c761ce516a6463d445cc41a51.jpg" alt="Banner" style="width: 100%; max-height: 300px; object-fit: cover;" />
 </div>
 
-<h1 align="center">Hello, I'm Francesca Salute</h1>
+<h1 align="center">Hello, I'm Francesca</h1>
 <h3 align="center">Data Scientist | Master's Student in Data Science | NLP, CV & Healthcare AI Enthusiast</h3>
 
 <p align="center">
