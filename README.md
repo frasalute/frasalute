@@ -1,11 +1,11 @@
-[![MasterHead](https://www.yorku.ca/laps/dlll/wp-content/uploads/sites/212/2020/12/Korean1536x430.jpg)](https://github.com/frasalute)
+[![MasterHead](![image](https://github.com/user-attachments/assets/b3a1afa8-2740-4e4c-8431-500c8196ab39))](https://github.com/frasalute)
 
 <h1 align="center">Hello, I'm Francesca Salute</h1>
-<h3 align="center">Data Scientist | Master's Student in NLP & Healthcare AI Enthusiast</h3>
+<h3 align="center">Data Scientist | Master's Student in Data Science | NLP, CV & Healthcare AI Enthusiast</h3>
 
 <p align="center">
   <em>
-    Passionate about combining interdisciplinary insights from <strong>Data Science</strong>, <strong>Economics</strong>, and <strong>NLP</strong> to develop
+    Passionate about combining interdisciplinary insights from <strong>Data Science</strong>, <strong>Computer Vision</strong>, <strong>Natural Language Processing</strong>, and <strong>Multimodal Learning</strong> to develop
     innovative solutions, particularly in <strong>Healthcare AI</strong>.
   </em>
 </p>
@@ -18,6 +18,7 @@
 - **Current Focus**: 
   - Vision and Image Processing
   - Mathematical Optimization and Modeling
+  - Advanced Topics in Natural Language Processing
 - **Interdisciplinary Background**: Economics + Data Science
 - **Fun Fact**: Huge aquarium enthusiast!
 
@@ -25,7 +26,8 @@
 
 ### Projects & Highlights
 
-- **Machine Learning & NLP**: 
+- **Machine Learning & NLP**:
+  - **Transformer with SCAN Dataset** recreating paper _Attention is All You Need_
   - **Bias Detection** using BERT
   - **Melanoma Image Classification** with CNN & SVM
 - **Data Visualization**: 
