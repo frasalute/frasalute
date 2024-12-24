@@ -116,5 +116,5 @@ Check out my [GitHub Repositories](https://github.com/frasalute?tab=repositories
 - **Email**: [francescasalute@hotmail.it](mailto:francescasalute@hotmail.it)
 
 <div align="center">
-  <em>“Change the world with data-driven insights, one project at a time.”</em>
+  <em>“It ain't over till it's over.”</em>
 </div>
