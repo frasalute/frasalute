@@ -1,4 +1,4 @@
-[![MasterHead](![image](https://github.com/user-attachments/assets/b3a1afa8-2740-4e4c-8431-500c8196ab39))](https://github.com/frasalute)
+[![MasterHead](![image](https://github.com/user-attachments/assets/709cc0c8-29cc-4939-b923-4fe4a746699a)))](https://github.com/frasalute)
 
 <h1 align="center">Hello, I'm Francesca Salute</h1>
 <h3 align="center">Data Scientist | Master's Student in Data Science | NLP, CV & Healthcare AI Enthusiast</h3>
