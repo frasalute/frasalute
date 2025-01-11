@@ -112,7 +112,6 @@ Check out my [GitHub Repositories](https://github.com/frasalute?tab=repositories
 ### Connect with Me
 
 - **LinkedIn**: [Francesca Salute](https://www.linkedin.com/in/francescasalute/)
-- **Email**: [francescasalute@hotmail.it](mailto:francescasalute@hotmail.it)
 
 <div align="center">
   <em>“It ain't over till it's over.”</em>
