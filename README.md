@@ -12,7 +12,7 @@
 
 ### About Me
 
-- **Master's Thesis**: Developing an academic chatbot focused on content generation and grounded in NLP
+- **Master's Thesis**: Developing an academic chatbot focused on content generation and factual knowledge
 - **Current Focus**: 
   - Vision and Image Processing
   - Mathematical Optimization and Modeling
