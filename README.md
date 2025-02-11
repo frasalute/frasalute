@@ -12,7 +12,7 @@
 
 ### About Me
 
-- **Master's Thesis**: Developing an academic chatbot focused on content generation and factual knowledge
+- **Master's Thesis**: Developing an academic chatbot focused on content generation red-teamed and knowledge retrieval with GraphRAG
 - **Current Focus**: 
   - Vision and Image Processing
   - Mathematical Optimization and Modeling
