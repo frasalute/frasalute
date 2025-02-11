@@ -114,5 +114,5 @@ Check out my [GitHub Repositories](https://github.com/frasalute?tab=repositories
 - **LinkedIn**: [Francesca Salute](https://www.linkedin.com/in/francescasalute/)
 
 <div align="center">
-  <em>“It ain't over till it's over.”</em>
+  <em>“Il tetto si è bruciato, ora posso vedere la luna.”</em>
 </div>
