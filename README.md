@@ -13,10 +13,6 @@
 ### About Me
 
 - **Master's Thesis**: Developing an academic chatbot focused on content generation red-teamed and knowledge retrieval with GraphRAG
-- **Current Focus**: 
-  - Vision and Image Processing
-  - Mathematical Optimization and Modeling
-  - Advanced Topics in Natural Language Processing
 - **Interdisciplinary Background**: Economics + Data Science
 - **Fun Fact**: Huge aquarium enthusiast!
 
