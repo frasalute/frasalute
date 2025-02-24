@@ -12,7 +12,7 @@
 
 ### About Me
 
-- **Master's Thesis**: Developing an academic chatbot focused on content generation red-teamed and knowledge retrieval with GraphRAG
+- **Master's Thesis**: Work in progress..
 - **Interdisciplinary Background**: Economics + Data Science
 - **Fun Fact**: Huge aquarium enthusiast!
 
