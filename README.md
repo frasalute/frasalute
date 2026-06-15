@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Francesca</h1>
-<h3 align="center">Data Scientist | Master's Student in Data Science | NLP, CV & Healthcare AI Enthusiast</h3>
+<h3 align="center">Data Scientist | AI&Data Consultant Big4 | NLP, CV & Healthcare AI Enthusiast</h3>
 
 <p align="center">
   <em>
@@ -12,8 +12,8 @@
 
 ### About Me
 
-- **Master's Thesis**: Work in progress..
-- **Interdisciplinary Background**: Economics + Data Science
+- **Master's Thesis**: Advancing Academic Chatbots: Evaluation of Non Traditional Outputs
+- **Interdisciplinary Background**: Economics + Data Science and AI Engineering
 - **Fun Fact**: Huge aquarium enthusiast!
 
 ---
